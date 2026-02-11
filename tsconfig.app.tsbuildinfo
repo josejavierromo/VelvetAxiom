@@ -1,0 +1,1 @@
+{"root":["./src/components/ButtonGrid.tsx","./src/components/Calculator.tsx","./src/components/Display.tsx","./src/components/History.tsx","./src/components/MemoryDisplay.tsx","./src/routes/__root.tsx","./src/routes/index.tsx"],"errors":true,"version":"5.8.3"}
